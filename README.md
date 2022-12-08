@@ -1,4 +1,5 @@
 # Introduction
-## All BasicC Activites
+
+All BasicC Activites
 
 **Author:** Sal Vergil A. Saromines alias.. ( Joker1718 )
