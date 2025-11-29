@@ -5,4 +5,4 @@ No hassle on making C installation towards
 on Linux platform, Unless you already 
 have a prebuilt Linux Distro.
 
-**Author:** Joker178
+https://github.com/Joker1718
